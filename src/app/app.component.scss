@@ -1,9 +1,22 @@
-.mat-card-simples{
+.mat-card-simples {
   max-width: 300px;
   background-color: aquamarine;
   margin-top: 10px;
 }
 
+.mat-card-principal {
+  max-width: 700px;
+  margin: auto;
+}
+
+.mat-card-title {
+  margin-left: 250px;
+}
+
 .mat-form-principal {
   margin-left: 5px;
+}
+
+.botao-inserir {
+  margin-left: 50%;
 }
